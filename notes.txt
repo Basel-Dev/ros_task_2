@@ -5,6 +5,12 @@ For Problem 1, I learned that I can use the input function in a while loop so th
 For Problem 2, I learned that I could have used loops in order to achieve the same result easily, 
 but applying arithmetic logic helped me make much more optimized code for any input
 
+For Problem 3, I learned about new complex number functions.
+
+For Problem 4, I learned about nesting if statements properly in order of occurance.
+
+For Problem 5, I just learned about that "end=" thing for the first time.
+
 For Problem 6, I learned about Lists and String Manipulation to achieve a result, whether it be for this specific problem or other cases.
 
 For Problem 7, I learned about looking up commands for their formal definition if I didn't understand at first.
